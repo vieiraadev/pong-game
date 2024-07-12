@@ -1,4 +1,4 @@
-Jogo Pong em Python
+
 
 Este repositório contém o código-fonte de um jogo Pong desenvolvido utilizando a linguagem de programação Python. O objetivo deste projeto é recriar o clássico jogo Pong, fornecendo uma experiência de jogo divertida e interativa.
 
